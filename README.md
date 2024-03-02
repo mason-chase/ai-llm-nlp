@@ -1,6 +1,4 @@
-# ai-llm-nlp
-
-# Task: Sentiment Analysis with Language Models
+# Artificial Digital Agent Assignment
 
 ## Challenge:
 
