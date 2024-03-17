@@ -37,3 +37,12 @@ Customer: The amount is 198.20 and date is: "10-OCT-2022" from
 Agent: I have found this transaction and it is not qualified for chargeback, is there other transaction I can help you with
 Customer: Yes, amount is amount 7849.90 from LG on December 12
 ```
+
+We will replace in our end the `live-datasource.json`, `knowledge-base.md`, `conversions.json`.
+Which will include new rules and new conversations and data source. in this change structure of live-datasource
+and conversations will remain the same, just a larger dataset will be used to test effectiveness of your solutions.
+
+To give you some hints:
+- The test is to see how do you apply Supervised, Semisupervised or Unsupervised training.
+- How do you create test for your solution.
+- How to ensure your user data privacy.
