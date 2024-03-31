@@ -12,6 +12,8 @@ The Agent will not be trained based on `live-datasource.json` But the agent can 
 
 Develop a conversational language model (LLM) tailored for a business environment, focusing on providing general support, managing new account openings, blocking credit cards, and advising on investments, loans, and insurance. The model will be trained using knowledge base and conversations as unsupervised learning methods. The digital agent can query live through `live-datasource.json` file and provide answers to customer questions.
 
+IMPORTANT NOTE: Do not use third-party AI API such as OpenAI ChatGPT for this test, we wish to see how you fine-tune a model.
+
 ## Bonus
 
 Experiment with different LLMs (e.g., GPT, BERT, XLNet) and compare their performance.
