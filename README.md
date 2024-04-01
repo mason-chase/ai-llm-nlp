@@ -2,7 +2,7 @@
 
 ## Challenge:
 
-Build a GPT model using a pre-trained LLM (e.g., GPT, BERT) and fine-tune it on based on the `dataset` folder where there are two documents:
+Build a model using any tooling that you feel is right (LLM, GPT, BERT, NLP) and fine-tune it on based on the `dataset` folder where there are two documents:
 1. knowledge-base.md
 2. conversations.json
 
